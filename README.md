@@ -2,8 +2,6 @@
 * [vue基础](1、vue基础.md)
 * [vue组件化](2、vue组件化.md)
 * [vue-router](3、vue-router.md)
-    * [vue-router](3、vue-router.md)
-    * [vue-router](3、vue-router.md)
 * [vuex](4、vuex.md)
 * [axios](5、axios.md)
  * [.env.development](5.1、.env.development.md)
